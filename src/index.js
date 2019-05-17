@@ -30,7 +30,7 @@ const init = () => {
     document.getElementById("root").appendChild(r.domElement);
 
     const g = new BoxGeometry(1, 1, 1);
-    const t = new TextureLoader().load("ssets/crate.gif");
+    const t = new TextureLoader().load("assets/crate.gif");
     const m = new MeshLambertMaterial({
         map: t
     });
