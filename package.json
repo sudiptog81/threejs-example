@@ -43,7 +43,7 @@
     "serve": "^11.0.0"
   },
   "dependencies": {
-    "three": "^0.104.0"
+    "three": "^0.137.0"
   },
   "jest": {
     "coverageDirectory": "./coverage/",
